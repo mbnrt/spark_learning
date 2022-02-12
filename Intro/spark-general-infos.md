@@ -3,12 +3,14 @@
 distributed query engine
 powerful integration
 
+<p> 
 Spark Streaming :
 
 Process & analyse streams of data
 With spark ease of use & fault tolerance
 HDFS, Flume, Kafka & twitter
-
+<p>
+  
 MLlib :
 scalable ML libraries
 multiple iterations
