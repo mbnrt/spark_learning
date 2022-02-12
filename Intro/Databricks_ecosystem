@@ -1,0 +1,31 @@
+Databricks ecosystem:
+
+Open source based
+
+Data & AI company, PAAS -> unify all data, analytics and AI workloads.
+Creators of Spark, Delta Lake & ML Flow
+5000+ customers
+
+Data Lakes & Data warehouse
+Data Lake : 
+  - Supports ML
+  - Open formats
+  - Big ecosystem (apps)
+  
+  
+Data Warehouse :
+  - Great for BI apps
+  - Limited support for ML apps
+  - Proprietary systems
+  - SQL based
+  
+Databricks has created Delta Lakes
+An open approach to bring data management & governance to data lakes
+Realiability with ACID transactions
+40x faster processing and indexing with SPARK
+Fine grained access control list
+
+Lake house platform :
+Models, dashboards, notebooks, datasets shared
+  
+  
